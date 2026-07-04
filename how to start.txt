@@ -1,0 +1,15 @@
+# 1. 解压文件
+unzip thisone.zip
+
+# 2. 进入解压后的文件夹
+cd thisone
+
+# 3. 安装依赖（根据你上面安装的工具选择其中一个执行）
+bun install   # 如果你安装了 bun
+# 或者
+npm install   # 如果你安装了 npm
+
+# 4. 启动开发服务器
+bun run dev   # 如果你用 bun
+# 或者
+npm run dev   # 如果你用 npm
