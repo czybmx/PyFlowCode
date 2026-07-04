@@ -1,9 +1,9 @@
 # PyFlowCode
 A python tools that generated with AI (Non-Professional)
 
-================================================================
+=================
 🚀 PyFlowCode — 节点式 Python 代码可视化编辑器
-================================================================
+=================
 不仅是一个工具，更是一份 PySide6 图形界面编程的【绝佳教程】。
 像 ComfyUI 或虚幻引擎蓝图一样，通过拖拽节点和连线编写 Python 代码。
 
@@ -28,10 +28,15 @@ A python tools that generated with AI (Non-Professional)
 依赖:
     PySide6 (若未安装会自动安装)
 
-----------------------------------------------------------------
-================================================================
+
+
+------------------------------------
+
+
+
+=================
 🚀 PyFlowCode — Node-Based Python Code Visual Editor
-================================================================
+=================
 More than just a tool, it's an [excellent tutorial] for PySide6 GUI programming.
 Write Python code by dragging and dropping nodes and connecting wires, just like ComfyUI or Unreal Engine Blueprints.
 
